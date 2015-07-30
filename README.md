@@ -1,9 +1,4 @@
----
-language: css
-tags: twitter, bootstrap, framework
-type: lecture
-resources: 0
----
+
 
 ## Bootstrap JavaScript Plugins ~ 2min
 
