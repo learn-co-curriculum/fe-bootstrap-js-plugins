@@ -5,3 +5,4 @@
 In this lecture we will discuss using Bootstrap JS Plugins to quickly add pre-built JavaScript behaviors into your project.
 
 <iframe width="100%" height="480" src="//www.youtube.com/embed/5-dIx-prMgk?rel=0" frameborder="0" allowfullscreen></iframe>
+<a href='https://learn.co/lessons/fe-bootstrap-js-plugins' data-visibility='hidden'>View this lesson on Learn.co</a>
